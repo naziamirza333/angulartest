@@ -1,0 +1,8 @@
+Pros of Webstrom :
+1. Debugger inside the ide (connect to chrome and firefox debugger)
+2. Smart/contextual Autocompletion
+3. Console inside the ide
+4. Database navigator
+5. Commercial support for many framework (react, angular, node, require and many more)
+6. Tool to easily add unsupported framework and api
+7. Everything is customizable within the settings 
